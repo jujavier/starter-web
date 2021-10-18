@@ -13,4 +13,4 @@ Adding a line for rebasing sample
 
 ###Copyright
 
-20Git.Training
+20Git.Training. All rights reserve
